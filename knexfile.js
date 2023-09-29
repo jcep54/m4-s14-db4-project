@@ -27,4 +27,3 @@ const sharedConfig = {
     },
     production: {}
   }
-  
